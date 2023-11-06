@@ -1,0 +1,17 @@
+{
+    "name": "jbb/composer",
+    "description": "加家帮帮composer",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "DouDian\\": "src/DouDian"
+        }
+    },
+    "authors": [
+        {
+            "name": "gq",
+            "email": "guoqing@cainiaomeishi.com"
+        }
+    ],
+    "require": {}
+}
